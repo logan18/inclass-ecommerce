@@ -281,3 +281,8 @@ th, td {
 
   border: 1px solid #c7c0ae;
 }
+
+.gutter{
+	padding-left: 1rem;
+	padding-right: 1rem;
+}

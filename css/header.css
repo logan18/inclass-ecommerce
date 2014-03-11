@@ -2,16 +2,12 @@
   background-color: #eae8e1;
 }
 
-.logo {
+.baby-logo{
   margin: 0 auto;
-  max-width: 256px;
+  width: 100px;
 }
 
 @media only screen and (min-width: 50em) {
-
-  .logo {
-    margin: 0;
-  }
 
 }
 
@@ -33,3 +29,19 @@
   }
 
 }
+
+.current{
+	background-color: red;
+}
+
+.banner{
+	background: #8E8E06 url("../images/banner.jpg") no-repeat center center;
+	background-size: cover;
+	padding: 5em 1em 1em;
+	text-align: center;
+}
+
+.banner h2 {
+	color: #fff;
+}
+
